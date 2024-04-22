@@ -11,6 +11,7 @@ function App() {
         </p>
       <h1> My name is harsh</h1>
       <h1> My name is Anushka</h1>
+      <h1>kaushal</h1>
 
         <a
           className="App-link"
